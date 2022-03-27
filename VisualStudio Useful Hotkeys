@@ -1,0 +1,10 @@
+CTRL + K + C ---> Comment Selection
+CTRL + K + U ---> Uncomment Selection
+
+CTRL + M + H ---> Hide Selection (the little collapse things)
+
+CTRL + SHIFT + B ---> Build Solution
+
+CTRL + ALT + LMB(Click) ---> Edit Multiple Lines
+
+Ctrl + R, Ctrl + R ---> Refactor (Change the text where the exact word matches by the given input) (CASE SENSITIVE) 
