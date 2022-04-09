@@ -1,6 +1,8 @@
 CTRL + K + C ---> Comment Selection
 CTRL + K + U ---> Uncomment Selection
 
+CTRL + K + S ---> Engolf Selection with XYZ (section, if, else, for, while, etc...)
+
 CTRL + M + H ---> Hide Selection (the little collapse things)
 
 CTRL + SHIFT + B ---> Build Solution
