@@ -10,3 +10,7 @@ CTRL + SHIFT + B ---> Build Solution
 CTRL + ALT + LMB(Click) ---> Edit Multiple Lines
 
 Ctrl + R, Ctrl + R ---> Refactor (Change the text where the exact word matches by the given input) (CASE SENSITIVE) 
+
+Ctrl + M + H ---> Collapse Selection
+
+Ctrl + M + U ---> Uncollapse Selection
