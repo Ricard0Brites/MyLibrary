@@ -12,3 +12,7 @@ Ctrl + R, Ctrl + R ---> Refactor (Change the text where the exact word matches b
 Ctrl + M + H ---> Collapse Selection
 
 Ctrl + M + U ---> Uncollapse Selection
+
+Ctrl + M + O -> Collapse All
+Ctrl + M + L -> Uncollapse All
+Ctrl + M + M -> Collapse/Uncollapse selection;
