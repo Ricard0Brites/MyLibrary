@@ -10,3 +10,4 @@ private bool CompareValueWithTolerance(float valA, float valB, float range)
         }
         return false;
     }
+
