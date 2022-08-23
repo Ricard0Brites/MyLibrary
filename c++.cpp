@@ -1,6 +1,7 @@
 // THIS IS AN EXAMPLE OF MULTIPLE EXEC PINS IN AN UNREAL FUNCTION
 //EOutcomePins is an enum
-void ATestPins :: RandomizeActorSize(AActor*targer,bool isSuccess,TEnumAsByte<EOutcomePins>&Outcome)
+UFUNCTION(Blueprint Callable,meta=(ExpandEnumAsExecs = "VarName"))
+void ATestPins :: RandomizeActorSize(AActor*targer,bool isSuccess,TEnumAsByte<EOutcomePins> &VarName)
 {
     if(isSuccess)
         OutCome = EOutcomePins::Success;
