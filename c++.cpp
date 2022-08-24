@@ -9,6 +9,6 @@ void ATestPins :: RandomizeActorSize(AActor*targer,bool isSuccess,TEnumAsByte<EO
         OutCome = EOutcomePins::Failure;
 }
 
-//Spawn Components From Components
+//Spawn Components From Components at runtime
 NewObject(ParentClass, StaticClassToSpawn, Name);
 NewObject(GetOwner(), Component->StaticClass(), FName("Actor Component"));
