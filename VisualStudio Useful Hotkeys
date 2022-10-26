@@ -4,6 +4,7 @@ CTRL + K + U ---> Uncomment Selection
 CTRL + K + S ---> Engolf Selection with XYZ (section, if, else, for, while, etc...)
 
 CTRL + SHIFT + B ---> Build Solution
+CTRL + B ---> Build Selection
 
 CTRL + ALT + LMB(Click) ---> Edit Multiple Lines
 
